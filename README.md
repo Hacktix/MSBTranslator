@@ -1,4 +1,9 @@
 # MSBTranslator
+
+![GitHub](https://img.shields.io/github/license/Hacktix/MSBTranslator?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hacktix/MSBTranslator?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Hacktix/MSBTranslator?style=for-the-badge)
+
 An automatic "bad translator" for Switch Game MSBT Files with a focus on high compatibility.
 
 ## What does it do?
@@ -18,3 +23,7 @@ The program reads the MSBT file using the MSBT interface from the [Kuriimu Suite
 - [IcySon55](https://github.com/IcySon55) for the creation of [Kuriimu](https://github.com/IcySon55/Kuriimu) (parts of which were used in this project)
 - [vonderborch](https://github.com/vonderborch) for the creation of the wonderfully easy to use [Apertium.Net Package](https://github.com/vonderborch/Apertium.Net)
 - [Apertium](https://apertium.org/) for providing one of the few free and unlimited translation services out there
+
+## Screenshots
+
+![Paper Mario The Origami King](./img/papermario.png)
